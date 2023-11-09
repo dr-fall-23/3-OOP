@@ -3,8 +3,6 @@ from typing import List
 # QUESTION 1
 # Write a class called Person that has two attibutes: name and fav_color (both strings!)
 # NOTE: We've given you an incomplete constructor - fill in the arguments and the function body
-
-
 class Person:
     def __init__(self) -> None:
         pass
@@ -29,9 +27,6 @@ def smallerNumbersThanCurrent(nums: List[int]) -> List[int]:
     pass
 
 
-# should output [4, 0, 1, 1, 3]
-print(smallerNumbersThanCurrent[8, 1, 2, 2, 3])
-# should output [2, 1, 0, 3]
-print(smallerNumbersThanCurrent[6, 5, 4, 8])
-# should output [0, 0, 0, 0]
-print(smallerNumbersThanCurrent[7, 7, 7, 7])
+print(smallerNumbersThanCurrent[8, 1, 2, 2, 3])        # should output [4, 0, 1, 1, 3]
+print(smallerNumbersThanCurrent[6, 5, 4, 8])            # should output [2, 1, 0, 3]
+print(smallerNumbersThanCurrent[7, 7, 7, 7])            # should output [0, 0, 0, 0]
