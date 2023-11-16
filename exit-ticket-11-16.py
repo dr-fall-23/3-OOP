@@ -31,7 +31,7 @@ my_triangle_2 = Triangle(1, 8)
 # Create a class called Node that takes has a field called value, with type int,
 # and another field called next, with type 'Node'
 #
-# We can think of this as an entry in a list, with a 'link' (self.next) to the next entry
+# We can think of a Node object as an entry in a list, with a 'link' (self.next) to the next entry
 #
 # Then, write a single Node object to represent the following list: [1, 2, 3]
 class Node:
