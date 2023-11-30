@@ -49,8 +49,9 @@ while running:
   for event in pygame.event.get():
     if event.type == pygame.QUIT:
       running = False
-
-  if event.type == pygame.KEYDOWN:
-    pass
+    if event.type == pygame.KEYDOWN:
+      pass   
+    if event.type == pygame.KEYUP:
+      pass
 
   pygame.display.update()
