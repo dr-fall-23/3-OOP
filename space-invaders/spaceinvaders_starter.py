@@ -12,6 +12,7 @@ MIN_X = 0
 MAX_X = 736
 NUM_ALIENS = 6
 LASER_RESET_Y = 380
+NEW_ALIEN_FREQUENCY = 5 # every 5 seconds
 
 
 class Player:
