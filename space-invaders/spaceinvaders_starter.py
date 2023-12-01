@@ -25,7 +25,7 @@ class Alien:
   pass
 
 
-# Intialize the pygame
+# Initialize the pygame
 pygame.init()
 screen = pygame.display.set_mode((800, 500)) # create the screen
 pygame.display.set_caption("Space Invader") # Caption
@@ -50,9 +50,12 @@ while running:
   for event in pygame.event.get():
     if event.type == pygame.QUIT:
       running = False
-    if event.type == pygame.KEYDOWN:
-      pass   
-    if event.type == pygame.KEYUP:
+    pressedKeys = pygame.key.get_pressed()
+    if pressedKeys[pygame.K_LEFT]:
+      pass
+    elif pressedKeys[pygame.K_RIGHT]:
+      pass
+    else:
       pass
 
   pygame.display.update()
