@@ -14,4 +14,4 @@
 
 # QUESTION 4
 # Provide some feedback about Unit 2 (the racecars) specifically.
-# Did the pacing feel too fast/too slow? How engaging were the labs/Hackathon? What would've made it better?
+# Did the pacing feel too fast/too slow? How engaging were the labs/Hackathon? Anything else that could've made it better?
