@@ -2,7 +2,7 @@
 # This is a preliminary survey to see what topics we need to review/emphasize in this unit.
 
 # QUESTION 1
-# What do you know about machine learning/A.I.? Explain in a few sentences.
+# What do you know about machine learning and A.I.? Explain in a few sentences.
 
 # QUESTION 2
 # Rate how comfortable you feel with math in general on a scale of 1-5
