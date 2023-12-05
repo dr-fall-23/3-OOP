@@ -14,5 +14,4 @@
 
 # QUESTION 4
 # Provide some feedback about Unit 2 (the racecars) specifically.
-# Did the pacing feel too fast/too slow? Were the labs/Hackathon engaging?
-# Did you understand how the topics we covered related to computer science in general?
+# Did the pacing feel too fast/too slow? How engaging were the labs/Hackathon? What would've made it better?
