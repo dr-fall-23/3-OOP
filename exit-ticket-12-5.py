@@ -5,10 +5,12 @@
 # What do you know about A.I.? Explain in a few sentences.
 
 # QUESTION 2
-# Rate how comfortable you feel with math topics in general on a scale of 1-5
+# Rate how comfortable you feel with math in general on a scale of 1-5
+# (feel free to elaborate on specifics)
 
 # QUESTION 3
 # Rate how comfortable you feel with calculus on a scale of 1-5
+# (feel free to elaborate on specifics)
 
 # QUESTION 4
 # Provide some feedback about Unit 2 (the racecars) specifically.
