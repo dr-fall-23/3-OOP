@@ -14,8 +14,6 @@ Example of a well written test:
 # a message for a computer's home screen.
 # Ex: Given "Luke" and "12/7", return: "Hello Luke, today is 12/7."
 # NOTE: This function below is incomplete! Make sure to give it appropriate arguments!
-
-
 def greet() -> str:
     # Erase pass and write code here
     pass
@@ -62,11 +60,9 @@ temps = {"Boston": [43, 42, 34, 47, 48, 47, 51], "San Francisco": [
 # temperature of the Boston forecast, for example.
 # Remember: you can access values from a dictionary by using square bracket notation!
 
-
 # Returns the average/mean value of a list of numbers.
 def average(a_list: list) -> float:
     return sum(a_list) / len(a_list)
-
 
 avg_boston_temp = None
 avg_sf_temp = None
